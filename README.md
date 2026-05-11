@@ -76,9 +76,13 @@ These assignments focus on building strong fundamentals in Excel functions, data
 
 ---
 
-📬 Connect With Me
-- LinkedIn: https://linkedin.com/in/shivam-thakur  
-- Email: dataanalyst.shivamthakur@gmail.com  
+**Shivam Thakur**  
+Aspiring Data Analyst | Python Learner | Exploring Data Analytics & AI
+
+## 📬 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/shivam-thakur-55b167406/
+- 📧 Email: dataanalyst.shivamthakur@gmail.com
 
 ---
 
